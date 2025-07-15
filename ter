@@ -1,0 +1,269 @@
+[33mcommit a29456ec65dfce2ea346c485a9ca33094becd3f9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 16:35:16 2025 +0300
+
+    Update index.html
+
+[33mcommit 9d0ce5f495f8c9077791c1548ce880537f57100a[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 15:53:39 2025 +0300
+
+    Update PDF links to open in new tab
+
+[33mcommit 94c56ee54799ea6f40ff276b8036aed4684b5466[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 15:23:45 2025 +0300
+
+    Add index.html for PDF viewer
+
+[33mcommit 6f6a74cbe6c6ea04c63fe09d293c6aef200b00b0[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:06 2025 +0300
+
+    sWAP cASE
+
+[33mcommit bb9160f5eaf5cfc9300502bba34589af3c8966c4[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:05 2025 +0300
+
+    collections.Counter()
+
+[33mcommit 540a3032fc7e9a5fcd20e1418fdaad7dbae44e7e[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:05 2025 +0300
+
+    Zeros and Ones
+
+[33mcommit cec4ed73f995ccb511ae7777fe9ee7d63fa7b576[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:05 2025 +0300
+
+    Write a function
+
+[33mcommit 8e3046494b4afad6d6c4d93cd45001cf0cdcc3ef[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:05 2025 +0300
+
+    Word Order
+
+[33mcommit bc4dde81987c2056c166e40090b7b178f66a83fd[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:04 2025 +0300
+
+    What's Your Name
+
+[33mcommit 49cfd477f94ef8440bdefbf0e3261f17bd705aab[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:04 2025 +0300
+
+    Tuples
+
+[33mcommit 5ef3ed3aa83cd8bea3521b3ed05bf939449834f9[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:04 2025 +0300
+
+    Transpose and Flatten
+
+[33mcommit 143a867570a69b3c9b722e4060bd460cb805555d[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:04 2025 +0300
+
+    Time Delta
+
+[33mcommit ee8cb94633e459a09ae514b736600392b8cf2ed3[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:03 2025 +0300
+
+    The Minion Game
+
+[33mcommit 91ccbaef47c7b491cbfbc56a95a5b4be6038b83c[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:03 2025 +0300
+
+    Text Wrap
+
+[33mcommit 0343df65d01fda4929e3dc2c78421f3dde03d09a[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:03 2025 +0300
+
+    Text Alignment
+
+[33mcommit e626a528c0932caacd51319acbdb4331002817c5[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:03 2025 +0300
+
+    Sum and Prod
+
+[33mcommit 06551004979f99f9952b6663ec5fbc158d4b3414[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:02 2025 +0300
+
+    String Validators
+
+[33mcommit 62fdf75fa802d670245231a9a3ed86f3b9c2df4f[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:02 2025 +0300
+
+    String Split and Join
+
+[33mcommit 5ec6a5f528925d9477ade6f829701b5d7c109e35[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:02 2025 +0300
+
+    String Formatting
+
+[33mcommit f541a08cb2d7779a1941351bcd36e6b2868d063e[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:02 2025 +0300
+
+    Shape and Reshape
+
+[33mcommit 2b526a20b178d40f25c686c1a45da311ab9db9e9[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:01 2025 +0300
+
+    Set .discard(), .remove() & .pop()
+
+[33mcommit 263f162c16a457b06d610d7071e46a6e6efcfbbe[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:01 2025 +0300
+
+    Set .add()
+
+[33mcommit 28c013efb7b434fe8854051cdf8d76a2bcd2aed0[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:01 2025 +0300
+
+    Say Hello, World! With Python
+
+[33mcommit a28a8c7dc070ae168d0b16cbe9bbeb2767b519be[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:00 2025 +0300
+
+    Python If-Else
+
+[33mcommit 39d4ce14b866923526b7b5ce7422f49767fc11ce[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:00 2025 +0300
+
+    Python Division
+
+[33mcommit 2f32ad656f47a419cea29c24446e93de6227f816[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:00 2025 +0300
+
+    Print Function
+
+[33mcommit 96ea5362228b7b979101f774c8dbdf966083d244[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:51:00 2025 +0300
+
+    No Idea!
+
+[33mcommit 5272ba990acc16df6a2b3f8f518def90b49bb655[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:59 2025 +0300
+
+    Nested Lists
+
+[33mcommit a3d6eea43573e02892ff754398dab7eef8d1f05f[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:59 2025 +0300
+
+    Mutations
+
+[33mcommit 127c859d30f9530227a1b4d29219777ffa0c02aa[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:59 2025 +0300
+
+    Min and Max
+
+[33mcommit 534de9b1c177eafd13c18915935180dc91a9e4d9[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:59 2025 +0300
+
+    Merge the Tools!
+
+[33mcommit c9494900162cbc8176ac063cee86ce6e71ab1a61[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:58 2025 +0300
+
+    Mean, Var, and Std
+
+[33mcommit c583b783e247263a2c993a0b8f8019459516b87f[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:58 2025 +0300
+
+    Loops
+
+[33mcommit c5da1984f1453308a60ef2dad168e1af707a82d2[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:58 2025 +0300
+
+    Lonely Integer
+
+[33mcommit d909d5b0bea3cc46bc73e347246c681b618fcf5f[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:58 2025 +0300
+
+    Input()
+
+[33mcommit e9bbcded8ead92bc268f5fcd90b22d05431b8d30[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:57 2025 +0300
+
+    Inner and Outer
+
+[33mcommit 19f12f2d2af5b2ed164a397eed3e64657c31ec26[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:57 2025 +0300
+
+    Finding the percentage
+
+[33mcommit c5894584ba5db839f783862989fb187622799766[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:57 2025 +0300
+
+    Find the Runner-Up Score!
+
+[33mcommit b943555a296748345cd02e8801f61a3ae2a3d097[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:57 2025 +0300
+
+    Find a string
+
+[33mcommit b6328fa3085e179b31c21c0be902f26abea5fc7f[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:56 2025 +0300
+
+    Find Angle MBC
+
+[33mcommit ffab7a3ec185e37063000ccab483aa521a12d24b[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:56 2025 +0300
+
+    Dot and Cross
+
+[33mcommit 0f0a58346a49503ed7d0f3f4031e4e3d46f61133[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:56 2025 +0300
+
+    Concatenate
+
+[33mcommit 95915d09b1a69fafc38f5f89ef1c33b3c7ac402d[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:56 2025 +0300
+
+    Compress the String!
+
+[33mcommit 32efa1d77af90b87f9e6c09dec8fc34095cdab6c[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:55 2025 +0300
+
+    Athlete Sort
+
+[33mcommit 5281485a1836b575465715cb77c0295ae8a3aecb[m
+Author: Ali-AhmedAli <aliahmedali78mohamed1977@gmail.com>
+Date:   Tue Jul 15 12:50:55 2025 +0300
+
+    Arithmetic Operators
